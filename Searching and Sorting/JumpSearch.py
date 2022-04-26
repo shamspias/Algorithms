@@ -1,4 +1,8 @@
 # Python3 code to implement Jump Search
+# Time Complexity : O(√n) 
+# Auxiliary Space : O(1)
+# Works only sorted arrays.
+
 import math
 
 def jumpSearch( arr , x , n ):
